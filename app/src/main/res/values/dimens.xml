@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_item_height">100dp</dimen>
+    <dimen name="list_space">16dp</dimen>
+    <dimen name="list_space_8dp">8dp</dimen>
+    <dimen name="list_space_4dp">4dp</dimen>
+</resources>

@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Tour Benin</string>
+
+    <string name="historic_sites">Historic Sites</string>
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="recreational">Recreational Centres</string>
+    <string name="more_details">More Details Here</string>
+    <string name="details">Details</string>
+    <string name="image_locations">Images of the Tour locations</string>
+
+    <string name="palace">Oba Palace</string>
+    <string name="palace_address">Ogogugbe, Benin City</string>
+    <string name="palace_contact">052542883</string>
+
+    <string name="moat">Benin Moat</string>
+    <string name="moat_address">All around the City</string>
+    <string name="moat_contact">052235856</string>
+
+    <string name="igun">Igun Street</string>
+    <string name="igun_address">Avbiama, Benin City</string>
+    <string name="igun_contact">052375994</string>
+
+    <string name="museum">National Museum</string>
+    <string name="museum_address">Ring Road Roundabout, Oka, Benin City</string>
+    <string name="museum_contact">0527467937</string>
+
+
+    <string name="randekhi">Randekhi Royal Hotel</string>
+    <string name="randekhi_address">6 Uhenuyi street Oka, Benin City</string>
+    <string name="randekhi_contact">08091729914</string>
+
+    <string name="protea">Protea Hotels</string>
+    <string name="protea_address">4, Central Road, Off Sapele Road, Oka, Benin City</string>
+    <string name="protea_contact">08139877770</string>
+
+    <string name="uyi">Uyi Grand Hotel</string>
+    <string name="uyi_address">35, Aideyan Street, Oka, Benin City</string>
+    <string name="uyi_contact">08027397788</string>
+
+    <string name="prestige">Prestige Hotel</string>
+    <string name="prestige_address">1, Ihama Road by Airport Road, Benin City</string>
+    <string name="prestige_contact">07067303748</string>
+
+
+    <string name="hallmark">Phill Hallmark Supermarket</string>
+    <string name="hallmark_address">107 Benin Sapele Road</string>
+    <string name="hallmark_contact">08095957574</string>
+
+    <string name="kada">Kada Plaza</string>
+    <string name="kada_address">111,Old Sapele Road, Benin City</string>
+    <string name="kada_contact">08055010676</string>
+
+    <string name="gt">GT Plaza</string>
+    <string name="gt_address">Ekehuan Road, Ogogugbe Benin City</string>
+    <string name="gt_contact">08035488948</string>
+
+    <string name="chicken">Chicken Republic</string>
+    <string name="chicken_address">Ugbowo Lagos Road, Benin City</string>
+    <string name="chicken_contact">07064663566</string>
+
+    <string name="mama_ebo">Mama Ebo Pepper Rice</string>
+    <string name="mama_ebo_address">123 Airport Road, Benin City</string>
+    <string name="mama_ebo_contact">07034667596</string>
+
+    <string name="omega">Omega Restaurants and Bar</string>
+    <string name="omega_address">13 Sakponba Road, Benin City</string>
+    <string name="omega_contact">07038387596</string>
+
+
+    <string name="ogba">Ogba Zoo</string>
+    <string name="ogba_address">Ogogugbo, Benin City</string>
+    <string name="ogba_contact">08073659914</string>
+
+    <string name="bethel">Bethel Home</string>
+    <string name="bethel_address">Km 51, Benin Auchi Road, Igieduma</string>
+    <string name="bethel_contact">08073377770</string>
+
+    <string name="king">King Square</string>
+    <string name="king_address">Ring Road, Round About Benin City</string>
+    <string name="king_contact">08074397788</string>
+
+    <string name="okomu">Okomu National Park</string>
+    <string name="okomu_address">Ovia South-West, Edo State</string>
+    <string name="okomu_contact">05203748</string>
+
+</resources>
