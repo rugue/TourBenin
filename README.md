@@ -16,4 +16,3 @@ Start the App
 -Up button for easy navigation
 
 ## Link to download at the App
-The apk can be downloaded from [here](https://drive.google.com/drive/folders/1IV6ZTUlP2oOXPdSsJm5S2eDsHzFRIzPq).
